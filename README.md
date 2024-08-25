@@ -13,6 +13,8 @@ In the short term, my goal is to become an Analyst Developer, where I can deepen
 
 I am passionate about combining technical proficiency with strategic insight to drive success in IT projects, ensuring that every solution aligns with business needs while embracing technological advances. As I progress in my career, I aspire to evolve into project management roles, and eventually into an IT executive position, always with a hands-on approach and a focus on innovation and efficiency.
 
+<br>
+
 <img align="right" alt="GIF" src="./img/Programmers.gif" width="500" />  
 
 - 📫 How to reach me: <a href="mailto:emilien.marotta@gmail.com">emilien.marotta@gmail.com<a/>
