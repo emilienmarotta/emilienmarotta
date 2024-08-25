@@ -7,11 +7,11 @@
 </p>
 
 ---
-✨ Currently pursuing studies in computer science and business management, I am deeply passionate about emerging technologies and their transformative potential.
+✨ Currently pursuing my studies in Computer Science and Business Management, I am focused on building a strong foundation in software development and technology leadership.
 
-My goal is to revolutionize business management by integrating cutting-edge solutions like blockchain and artificial intelligence. I am committed to enhancing companies' competitiveness by developing secure, reliable, and partially automated management systems.
+In the short term, my goal is to become an Analyst Developer, where I can deepen my technical expertise and actively contribute to the design and development of innovative solutions. This role will provide me with the essential experience needed to take on future responsibilities in project management and, ultimately, IT leadership roles.
 
-I aspire to create advanced working environments that foster both innovation and efficiency.
+I am passionate about combining technical proficiency with strategic insight to drive success in IT projects, ensuring that every solution aligns with business needs while embracing technological advances. As I progress in my career, I aspire to evolve into project management roles, and eventually into an IT executive position, always with a hands-on approach and a focus on innovation and efficiency.
 
 <img align="right" alt="GIF" src="./img/Programmers.gif" width="500" />  
 
