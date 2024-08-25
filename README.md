@@ -13,7 +13,7 @@ My ambition is to revolutionize business management by integrating innovative so
 
 My aim is to create state-of-the-art working environments that foster innovation and efficiency.
 
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />   
+<img align="right" alt="GIF" src="./img/Programmers.gif" width="500" height="320" />  
 
 - 📫 How to reach me: <a href="mailto:emilien.marotta@gmail.com">emilien.marotta@gmail.com<a/>
 
