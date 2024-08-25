@@ -13,7 +13,7 @@ My goal is to revolutionize business management by integrating cutting-edge solu
 
 I aspire to create advanced working environments that foster both innovation and efficiency.
 
-<img align="right" alt="GIF" src="./img/Programmers.gif" width="500" height="320" />  
+<img align="right" alt="GIF" src="./img/Programmers.gif" width="500" />  
 
 - 📫 How to reach me: <a href="mailto:emilien.marotta@gmail.com">emilien.marotta@gmail.com<a/>
 
