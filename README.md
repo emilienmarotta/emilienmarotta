@@ -7,11 +7,11 @@
 </p>
 
 ---
-✨ Currently studying computer science and business management, I'm passionate about new technologies and their transformative potential. 
+✨ Currently pursuing studies in computer science and business management, I am deeply passionate about emerging technologies and their transformative potential.
 
-My ambition is to revolutionize business management by integrating innovative solutions such as blockchain and artificial intelligence. I'm committed to making companies more competitive by developing secure, reliable and partially automated management structures. 
+My goal is to revolutionize business management by integrating cutting-edge solutions like blockchain and artificial intelligence. I am committed to enhancing companies' competitiveness by developing secure, reliable, and partially automated management systems.
 
-My aim is to create state-of-the-art working environments that foster innovation and efficiency.
+I aspire to create advanced working environments that foster both innovation and efficiency.
 
 <img align="right" alt="GIF" src="./img/Programmers.gif" width="500" height="320" />  
 
