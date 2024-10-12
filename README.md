@@ -2,8 +2,7 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Emilien Marotta</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emilienmarotta">LinkedIn</a> •
-  <a href="https://instagram.com/emilienmrta">Instagram</a>
+  <a href="https://www.linkedin.com/in/emilienmarotta">LinkedIn</a>
 </p>
 
 ---
