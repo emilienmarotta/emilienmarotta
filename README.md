@@ -16,20 +16,15 @@ I am passionate about combining technical proficiency with strategic insight to 
 
 <img align="right" alt="GIF" src="./img/Programmers.gif" width="500" />  
 
-- 📫 How to reach me: <a href="mailto:emilien.marotta@gmail.com">emilien.marotta@gmail.com<a/>
+- 📫 How to reach me: <a href="mailto:contact@emilienmarotta.com">contact@emilienmarotta.com<a/>
 
 - ⚡ My passions: sport & traveling the world 🏋🏻‍♂️🌎
 
-### My programming languages 🖥️
+### My programming languages & frameworks 🖥️
 
-- C#
-- C
+- Javascript : Node.js, React, Vite, Next.js
+- SQL
 - Java
-- Solidity
-- Python
-- MySQL
-- HTML/CSS
-- Javascript
 
  ### My GitHub stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
